@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amine Akrichi</h1>
 <h3 align="center">A passionate Full Stack Devoloper from Tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amine-akrichi&label=Profile%20views&color=0e75b6&style=flat" alt="amine-akrichi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amine-akrichi" alt="amine-akrichi" /></a> </p>
 
 - 🔭 I’m currently working on **sunnyDrive**
 
