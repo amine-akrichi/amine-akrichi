@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Amine Akrichi</h1>
-<h3 align="center">A passionate Full Stack Devoloper from Tunisia</h3>
-
-
 # 💫 About Me:
-🔭 I’m currently working on SunnyDrive<br>🌱 I’m currently learning SpringBoot<br>📫 How to reach me amineakrichi21@gmail.com
+🔭 Currently working on <b>SunnyDrive</b> <br>🌱 Currently learning <b>SpringBoot</b> <br>📫 How to reach me amineakrichi21@gmail.com
 
 
 # 🌐 Socials:
