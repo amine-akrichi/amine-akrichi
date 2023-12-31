@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Amine !
-👨‍💻 Tunisian Full Stack Web developer <br>🧑‍🎓 Studying IT in the Higher Institute of Technological Studies of Radès , Tunisia <br>🔭 I’m currently working on SunnyDrive<br>🌱 I’m currently learning Springboot<br>📫 How to reach me amineakrichi21@gmail.com
+👨‍💻 Tunisian Full Stack Web developer <br>🧑‍🎓 Studying IT in the Higher Institute of Technological Studies of Radès , Tunisia <br>🔭 I’m currently working on SunnyDrive<br>🌱 I’m currently learning React<br>📫 How to reach me amineakrichi21@gmail.com
 
 
 # 💻 Tech Stack:
