@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amine AKRICHI
 
 **🎯 Full Stack Developer & AI Enthusiast**  
-*Bridging web development with artificial intelligence and robotics*
+*Bridging web development with artificial intelligence*
 
 ---
 
@@ -95,7 +95,7 @@
 
 - 📧 **Email**: [amineakrichi21@gmail.com](mailto:amineakrichi21@gmail.com)
 - 💼 **LinkedIn**: [Mohamed Amine AKRICHI](https://linkedin.com/in/mohamed-amine-akrichi)
-- 🌐 **Portfolio**: [Your Portfolio Link] *(consider adding)*
+- 🌐 **Portfolio**: [My Portfolio](https://www.mohamedamineakrichi.tn/)
 
 ---
 
