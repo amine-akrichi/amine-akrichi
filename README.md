@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Amine AKRICHI
 
 **🎯 Full Stack Developer & AI Enthusiast**  
-*Bridging web development with artificial intelligence*
+*Bridging full-stack development with artificial intelligence*
 
 ---
 
